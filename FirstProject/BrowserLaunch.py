@@ -30,4 +30,3 @@ print(driver.title)
 print(driver.current_url)
 if driver.title =="Your Shopping Basket | Insight UK Site":
     print("We are on cart page"+"- Passed")
-    print("this is test")
